@@ -1,0 +1,14 @@
+*.bak
+
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.svn
+target
+
+*.log
+*.xml.versionsBackup
+*.swp
+*.sh
