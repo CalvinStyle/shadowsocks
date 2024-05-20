@@ -12,3 +12,4 @@ target
 *.xml.versionsBackup
 *.swp
 *.sh
+#*.zip
