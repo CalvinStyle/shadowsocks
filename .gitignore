@@ -14,3 +14,5 @@ target
 *.sh
 #*.zip
 ovpn-data
+*.ovpn
+test
